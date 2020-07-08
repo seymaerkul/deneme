@@ -51,8 +51,6 @@ def listeDuzenle(liste):
 
 liste=["biber","domates","patlıcan",2.3,5.6,8.8,1,2,3,4,5]
 print(listeDuzenle(liste))"""
-def hello():
-    print("hello world")
 
     
 def carpı2(x):
@@ -74,7 +72,7 @@ print(tamSayıCarp(liste))
 
 
 
-hello()
+
 
 
 
